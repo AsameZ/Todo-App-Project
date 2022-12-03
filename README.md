@@ -1,0 +1,3 @@
+# Todo-App-Project
+* In this project, we tried to use create a todo app with "Locale Storage".
+* You can also use "Enter" and "Delete" for adding and deleting todos...
